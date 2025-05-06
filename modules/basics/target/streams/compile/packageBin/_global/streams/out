@@ -1,13 +1,19 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/basics_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/basics_3-0.1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	basics$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/basics$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	fizzBuzz.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/fizzBuzz.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	fizzBuzz.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/fizzBuzz.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	basics$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/basics$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FizzBuzz$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/FizzBuzz$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FizzBuzz$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/FizzBuzz$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FizzBuzz$package.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/FizzBuzz$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	basics$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/hades/scala/the-scala-path/modules/basics/target/scala-3.6.4/classes/basics$package.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
